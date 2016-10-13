@@ -1,16 +1,27 @@
 
+body {
 
+font-family: Andale Mono;
+background: url(websitebackground.jpg);
+background-repeat: repeat;
+background-size: cover;
+background-position: center;
+color: #fff;
+}
 
 
 
 .weblogo {
-
+width: 80%;
 text-align: center;
 
 display: block;
 
 }
 
+.content {
+	text-align: center;
+}
 
 }
 
