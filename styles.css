@@ -2,11 +2,12 @@
 body {
 
 font-family: Andale Mono;
-background: url(websitebackground.jpg);
+background: url(stardust2.png);
 background-repeat: repeat;
-background-size: cover;
+background-size: width 200px height 200px;
 background-position: center;
 color: #fff;
+background-color: #16151a;
 }
 
 
